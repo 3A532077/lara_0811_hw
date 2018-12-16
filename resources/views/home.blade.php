@@ -65,7 +65,7 @@
     </head>
     <body>
             <div class="content">
-                <div class="title">About</div>
+                <div class="title">Home</div>
                 <input type="button" value="About" onclick="self.location.href='{{route('about.index')}}'"/>
                 <input type="button" value="News" onclick="self.location.href='{{route('news.index')}}'"/>
             </div>
